@@ -1,0 +1,25 @@
+## Ideas
+- website /gui/search bar /favourites section /meme template(popular)/two hands/trending suggestions/customised /download-favourite/recommendations/contact/review
+- Scraping template on instagram (api) and reddit.
+- Editing and adding text upon them.
+- Detecting image and area upon the image so that it doesnt clash.
+- Meme should also have a photo based area on it.
+- Website/webapp . (taking the meme template from the user and then we can allow the user to perform edits on the meme)
+- Meme template shaking hands (using alt text search up)
+- meme customization (text,text/edit,face adding,)
+- user can also add a specific template 
+	- spam system so that the user doesnt upload any wrong photos
+- trending meme areas on the website/app.
+- download it into different formats.
+- Like option to encourage the meme templates.
+- favourite option to see their favourite meme.
+- testing to add dummy data.
+- [[Technologies]]
+- trending/popularity section using dummy data.
+- contact details for them to reach us individually.
+- chatgpt API
+- Notification(New templates)
+- Draft functionality with a column in the webpage/app
+- research and developement / video memes
+- keyword generation and understanding using python
+- add id to photos and memes
